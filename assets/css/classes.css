@@ -6,6 +6,7 @@
 }
 .white-bg {
     background: var(--white-collor);
+    color: var(--primary-collor);
 }
 .main-content {
     max-width: 120rem;

@@ -7,4 +7,3 @@
 
 #### [Icone Linkedin por Icon8](https://icons8.com)
 
-<a target="_blank" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>

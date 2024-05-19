@@ -1,2 +1,6 @@
 # Landing-Page
- Landing Pave com HTML E CSS
+## Landing Page com HTML E CSS
+
+### Autor: Marcos Pelaez - Front-End Developer
+
+
